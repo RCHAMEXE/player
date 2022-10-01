@@ -29,9 +29,16 @@ body{
                 width: 170px;
             }
         }
-.player{
-    border-radius:5px;
-}
+        
+        .title{
+             font-size:2em;
+             font-family: monospace ;
+         }
+        
+       .player{
+               border-radius:5px;
+               top : 20px;
+        }
 
 
 
