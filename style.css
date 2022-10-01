@@ -10,7 +10,7 @@ body{
   min-height: 100vh;
   background: #E3F2FD;
 }
-body, .container, .video-controls, .video-timer, .options{
+body {
   display: flex;
   align-items: center;
   justify-content: center;
